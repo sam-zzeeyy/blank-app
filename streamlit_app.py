@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Ürün Sayım Uygulaması")
+st.title("Ürün Say Uygulaması")
 
 urun_listesi = []
 
